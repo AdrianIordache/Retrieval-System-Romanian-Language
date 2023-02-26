@@ -1,0 +1,1 @@
+Acest fișier este un demo, conține doar câteva cuvinte pentru testarea framework-ului (exemplu: cămașă, mamelor, și, pești).
